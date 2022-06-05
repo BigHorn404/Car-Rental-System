@@ -36,5 +36,24 @@
 
 ![](https://big-horn.oss-cn-beijing.aliyuncs.com/images/202206051247207.png)
 
+### 4️⃣部分截图
 
+#### **管理员**
 
+##### 操作选项
+
+![image-20220605135144016](https://big-horn.oss-cn-beijing.aliyuncs.com/images/202206051351190.png)
+
+##### 修改车辆租金
+
+![image-20220605135401243](https://big-horn.oss-cn-beijing.aliyuncs.com/images/202206051354422.png)
+
+#### **租车用户**
+
+##### 欢迎界面
+
+![image-20220605135539652](https://big-horn.oss-cn-beijing.aliyuncs.com/images/202206051355858.png)
+
+##### 结算租金
+
+![image-20220605135643433](https://big-horn.oss-cn-beijing.aliyuncs.com/images/202206051356554.png)
